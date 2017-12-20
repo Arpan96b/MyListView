@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My ListView</string>
+    <string-array name="Animal_Names">
+        <item >      LION   </item>
+        <item >   SHARK  </item>
+
+        <item >    HORSE    </item>
+        <item >   ELEPHANT  </item>
+
+        <item >    DUCK </item>
+        <item >   DOG  </item>
+        <item >   DEER   </item>
+        <item >    CAT </item>
+
+    </string-array>
+</resources>
